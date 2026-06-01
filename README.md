@@ -10,7 +10,18 @@ real-time SSE streaming.
 - 🏥 Domains: SaaS · healthcare (HIPAA) · fintech
 - 📫 Portfolio: [mfhassan.work](https://mfhassan.work)
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+
 #### Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Faizan_Hassan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizan-md-hassan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-mfhassan.work-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mfhassan.work)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizan-md-hassan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://mfhassan.work)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hassan_faizan@hotmail.com)
+[![Resume](https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=readdotcv&logoColor=white)](https://mfhassan.work/resume.docx)
+
