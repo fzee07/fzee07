@@ -1,6 +1,6 @@
 ### Hi, I'm Faizan 👋
 
-Backend & Full-Stack Engineer with 5+ years building production-grade systems in
+Backend & Full-Stack Engineer with 6+ years building production-grade systems in
 **Node.js + TypeScript** — REST APIs, microservices, and **AI-powered backends**:
 LLM integrations (OpenAI, Gemini), RAG pipelines with vector databases, and
 real-time SSE streaming.
