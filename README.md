@@ -8,7 +8,10 @@ real-time SSE streaming.
 - 🔭 Building: production GenAI systems — RAG, prompt engineering, multi-tenant SaaS
 - 🛠️ Stack: Node.js · TypeScript · Express · PostgreSQL · MongoDB · AWS (EC2/SQS/S3) · Docker
 - 🏥 Domains: SaaS · healthcare (HIPAA) · fintech
-- 📫 Portfolio: [mfhassan.work](https://mfhassan.work)
+
+> [!TIP]
+> **📄 My résumé** is always kept current on my portfolio — grab the latest at **[mfhassan.work](https://mfhassan.work)**.
+
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -22,6 +25,4 @@ real-time SSE streaming.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizan-md-hassan)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://mfhassan.work)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hassan_faizan@hotmail.com)
-[![Resume](https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=readdotcv&logoColor=white)](https://mfhassan.work/resume.docx)
 
